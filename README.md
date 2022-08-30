@@ -1,2 +1,1 @@
-# Kubernetes-YAML-
-Kubernetes-YAML 
+# Kubernetes-YAML
